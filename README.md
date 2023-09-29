@@ -6,14 +6,14 @@ My areas of expertise are:
 - Application level software (GUI programs, web programs, Utility scripts) in Java, Python, C# and Node.js.
 
 ## Experience
-- Rust: 4+ years,
-- C: 5+ years,
-- Java: 6+ years,
-- C# .net: 6+ years,
-- Python: 5+ years,
-- Javascript: 5+ years,
-- React: 4+ years,
-- Angular: 5+ years
+- Rust: 5+ years,
+- C: 6+ years,
+- Java: 7+ years,
+- C# .net: 7+ years,
+- Python: 6+ years,
+- Javascript: 6+ years,
+- React: 5+ years,
+- Angular: 6+ years
 
 ## Interests
 Other interests include:
